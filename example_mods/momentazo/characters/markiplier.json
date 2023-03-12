@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				91,
+				120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "markiplieridle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				147
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "markiplierleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "markiplierdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				172
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "markiplierup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				140
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "markiplierright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				208
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "startingtalk",
+			"indices": [],
+			"name": "startingtalk"
+		},
+		{
+			"offsets": [
+				72,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "thisisntfunatall",
+			"indices": [],
+			"name": "thisisntfunatall"
+		},
+		{
+			"offsets": [
+				85,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "whatisgoingon",
+			"indices": [],
+			"name": "wutdahellgoingonhere"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/markiplier",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "marketplier",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		204,
+		51
+	],
+	"camera_position": [
+		-910,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

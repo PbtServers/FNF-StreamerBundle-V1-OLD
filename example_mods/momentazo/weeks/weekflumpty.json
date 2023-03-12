@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"momentazo",
+			"weekicon",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "flumpty",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Puedo Comerme al Bicho Este?",
+	"weekName": "Momentazo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "flumpty",
+	"startUnlocked": true
+}

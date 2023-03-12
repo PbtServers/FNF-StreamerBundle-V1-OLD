@@ -1,0 +1,246 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"startingtalk",
+						"bf"
+					]
+				]
+			],
+			[
+				38398.125,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"goldenflumpty"
+					]
+				]
+			],
+			[
+				58425,
+				[
+					[
+						"Play Animation",
+						"thisisntfunatall",
+						"bf"
+					]
+				]
+			],
+			[
+				59998.125,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"birthdayboyblam"
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare1",
+						"0"
+					]
+				]
+			],
+			[
+				63075,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare4",
+						"0"
+					]
+				]
+			],
+			[
+				63600,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare1",
+						"0"
+					]
+				]
+			],
+			[
+				71400,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare1",
+						"0"
+					]
+				]
+			],
+			[
+				71550,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare1",
+						"0"
+					]
+				]
+			],
+			[
+				71700,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare1",
+						"0"
+					]
+				]
+			],
+			[
+				73200,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare3",
+						"0"
+					]
+				]
+			],
+			[
+				73350,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare1",
+						"0"
+					]
+				]
+			],
+			[
+				73500,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare4",
+						"0"
+					]
+				]
+			],
+			[
+				73650,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare1",
+						"0"
+					]
+				]
+			],
+			[
+				73800,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare4",
+						"0"
+					]
+				]
+			],
+			[
+				73875,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare4",
+						"0"
+					]
+				]
+			],
+			[
+				73950,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare4",
+						"0"
+					]
+				]
+			],
+			[
+				74100,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare1",
+						"0"
+					]
+				]
+			],
+			[
+				74250,
+				[
+					[
+						"Image Flash",
+						"birthdayboyblamjumpscare1",
+						"0"
+					]
+				]
+			],
+			[
+				79196.25,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0"
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"flumpty"
+					]
+				]
+			],
+			[
+				98398.125,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				261,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "flumptyidle"
+		},
+		{
+			"offsets": [
+				220,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "flumptyleft"
+		},
+		{
+			"offsets": [
+				233,
+				-75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "flumptydown"
+		},
+		{
+			"offsets": [
+				152,
+				192
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "flumptyup"
+		},
+		{
+			"offsets": [
+				110,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "flumptyrgiht"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flumpty",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "flumpty",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		239,
+		229
+	],
+	"camera_position": [
+		-380,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

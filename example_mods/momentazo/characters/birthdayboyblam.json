@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "birthdayboyblamidle"
+		},
+		{
+			"offsets": [
+				90,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "birthdayboyblamleft"
+		},
+		{
+			"offsets": [
+				20,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "birthdayboyblamdown"
+		},
+		{
+			"offsets": [
+				17,
+				75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "birthdayboyblamup"
+		},
+		{
+			"offsets": [
+				47,
+				-29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "birthdayboyblamright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/birthday boy blam",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "birthdayboyblam",
+	"flip_x": false,
+	"healthbar_colors": [
+		223,
+		213,
+		221
+	],
+	"camera_position": [
+		-180,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
