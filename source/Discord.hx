@@ -42,10 +42,10 @@ class DiscordClient
 	static function onReady()
 	{
 		DiscordRpc.presence({
-			details: "In the Menus",
+			details: "Jugando Actualmente",
 			state: null,
 			largeImageKey: 'icon',
-			largeImageText: "Psych Engine"
+			largeImageText: "StreamerBundle"
 		});
 	}
 
