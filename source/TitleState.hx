@@ -640,9 +640,9 @@ class TitleState extends MusicBeatState
 					FlxG.sound.playMusic(Paths.music('freakyMenu'), 0);
 					FlxG.sound.music.fadeIn(4, 0, 0.7);
 				case 2:
-					createCoolText(['PbtEngine para Siempre!'], 15);
+					createCoolText(['Los Streamers'], 15);
 				case 4:
-					addMoreText('Entra a PbtServers', 15);
+					addMoreText('han Llegado!', 15);
 				case 5:
 					deleteCoolText();
 				case 6:
