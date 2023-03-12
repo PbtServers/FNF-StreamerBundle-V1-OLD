@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="modTemplate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/docs/modTemplate.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
