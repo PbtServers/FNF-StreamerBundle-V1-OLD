@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cade.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cade-Down0000" x="0" y="0" width="680" height="842" frameX="0" frameY="0" frameWidth="680" frameHeight="941"/>
+	<SubTexture name="Cade-Down0001" x="0" y="0" width="680" height="842" frameX="0" frameY="-54" frameWidth="680" frameHeight="941"/>
+	<SubTexture name="Cade-Down0002" x="0" y="0" width="680" height="842" frameX="0" frameY="-82" frameWidth="680" frameHeight="941"/>
+	<SubTexture name="Cade-Down0003" x="0" y="0" width="680" height="842" frameX="0" frameY="-94" frameWidth="680" frameHeight="941"/>
+	<SubTexture name="Cade-Down0004" x="0" y="0" width="680" height="842" frameX="0" frameY="-98" frameWidth="680" frameHeight="941"/>
+	<SubTexture name="Cade-Down0005" x="0" y="0" width="680" height="842" frameX="0" frameY="-98" frameWidth="680" frameHeight="941"/>
+	<SubTexture name="Cade-Down0006" x="0" y="0" width="680" height="842" frameX="0" frameY="-95" frameWidth="680" frameHeight="941"/>
+	<SubTexture name="Cade-Idle0000" x="680" y="0" width="719" height="781" frameX="-21" frameY="-82" frameWidth="761" frameHeight="863"/>
+	<SubTexture name="Cade-Idle0001" x="1399" y="0" width="725" height="789" frameX="-18" frameY="-71" frameWidth="761" frameHeight="863"/>
+	<SubTexture name="Cade-Idle0002" x="2124" y="0" width="730" height="797" frameX="-15" frameY="-61" frameWidth="761" frameHeight="863"/>
+	<SubTexture name="Cade-Idle0003" x="2854" y="0" width="735" height="804" frameX="-13" frameY="-51" frameWidth="761" frameHeight="863"/>
+	<SubTexture name="Cade-Idle0004" x="3589" y="0" width="740" height="812" frameX="-10" frameY="-40" frameWidth="761" frameHeight="863"/>
+	<SubTexture name="Cade-Idle0005" x="4329" y="0" width="746" height="820" frameX="-7" frameY="-30" frameWidth="761" frameHeight="863"/>
+	<SubTexture name="Cade-Idle0006" x="5075" y="0" width="752" height="827" frameX="-4" frameY="-20" frameWidth="761" frameHeight="863"/>
+	<SubTexture name="Cade-Idle0007" x="5827" y="0" width="756" height="835" frameX="-2" frameY="-10" frameWidth="761" frameHeight="863"/>
+	<SubTexture name="Cade-Idle0008" x="6583" y="0" width="761" height="842" frameX="0" frameY="0" frameWidth="761" frameHeight="863"/>
+	<SubTexture name="Cade-Idle0009" x="6583" y="0" width="761" height="842" frameX="0" frameY="0" frameWidth="761" frameHeight="863"/>
+	<SubTexture name="Cade-Left0000" x="7344" y="0" width="840" height="850" frameX="-156" frameY="0" frameWidth="996" frameHeight="850"/>
+	<SubTexture name="Cade-Left0001" x="0" y="850" width="850" height="850" frameX="-137" frameY="0" frameWidth="996" frameHeight="850"/>
+	<SubTexture name="Cade-Left0002" x="850" y="850" width="861" height="849" frameX="-117" frameY="0" frameWidth="996" frameHeight="850"/>
+	<SubTexture name="Cade-Left0003" x="1711" y="850" width="872" height="848" frameX="-97" frameY="-1" frameWidth="996" frameHeight="850"/>
+	<SubTexture name="Cade-Left0004" x="2583" y="850" width="882" height="847" frameX="-78" frameY="-1" frameWidth="996" frameHeight="850"/>
+	<SubTexture name="Cade-Left0005" x="3465" y="850" width="893" height="847" frameX="-58" frameY="-1" frameWidth="996" frameHeight="850"/>
+	<SubTexture name="Cade-Left0006" x="4358" y="850" width="903" height="845" frameX="-39" frameY="-2" frameWidth="996" frameHeight="850"/>
+	<SubTexture name="Cade-Left0007" x="5261" y="850" width="913" height="843" frameX="-19" frameY="-3" frameWidth="996" frameHeight="850"/>
+	<SubTexture name="Cade-Left0008" x="6174" y="850" width="923" height="842" frameX="0" frameY="-3" frameWidth="996" frameHeight="850"/>
+	<SubTexture name="Cade-Left0009" x="6174" y="850" width="923" height="842" frameX="0" frameY="-3" frameWidth="996" frameHeight="850"/>
+	<SubTexture name="Cade-Right0000" x="7097" y="850" width="833" height="842" frameX="0" frameY="0" frameWidth="1003" frameHeight="842"/>
+	<SubTexture name="Cade-Right0001" x="7097" y="850" width="833" height="842" frameX="-77" frameY="0" frameWidth="1003" frameHeight="842"/>
+	<SubTexture name="Cade-Right0002" x="7097" y="850" width="833" height="842" frameX="-124" frameY="0" frameWidth="1003" frameHeight="842"/>
+	<SubTexture name="Cade-Right0003" x="7097" y="850" width="833" height="842" frameX="-147" frameY="0" frameWidth="1003" frameHeight="842"/>
+	<SubTexture name="Cade-Right0004" x="7097" y="850" width="833" height="842" frameX="-154" frameY="0" frameWidth="1003" frameHeight="842"/>
+	<SubTexture name="Cade-Right0005" x="7097" y="850" width="833" height="842" frameX="-151" frameY="0" frameWidth="1003" frameHeight="842"/>
+	<SubTexture name="Cade-Right0006" x="7097" y="850" width="833" height="842" frameX="-144" frameY="0" frameWidth="1003" frameHeight="842"/>
+	<SubTexture name="Cade-Right0007" x="0" y="1700" width="892" height="842" frameX="-111" frameY="0" frameWidth="1003" frameHeight="842"/>
+	<SubTexture name="Cade-Up0000" x="892" y="1700" width="761" height="842" frameX="0" frameY="-127" frameWidth="761" frameHeight="969"/>
+	<SubTexture name="Cade-Up0001" x="1653" y="1700" width="743" height="866" frameX="-9" frameY="-77" frameWidth="761" frameHeight="969"/>
+	<SubTexture name="Cade-Up0002" x="2396" y="1700" width="731" height="880" frameX="-15" frameY="-46" frameWidth="761" frameHeight="969"/>
+	<SubTexture name="Cade-Up0003" x="3127" y="1700" width="725" height="888" frameX="-18" frameY="-30" frameWidth="761" frameHeight="969"/>
+	<SubTexture name="Cade-Up0004" x="3852" y="1700" width="723" height="890" frameX="-19" frameY="-26" frameWidth="761" frameHeight="969"/>
+	<SubTexture name="Cade-Up0005" x="4575" y="1700" width="724" height="889" frameX="-18" frameY="-28" frameWidth="761" frameHeight="969"/>
+	<SubTexture name="Cade-Up0006" x="5299" y="1700" width="725" height="886" frameX="-18" frameY="-33" frameWidth="761" frameHeight="969"/>
+	<SubTexture name="Cade-Up0007" x="6024" y="1700" width="727" height="956" frameX="-17" frameY="0" frameWidth="761" frameHeight="969"/>
+</TextureAtlas>

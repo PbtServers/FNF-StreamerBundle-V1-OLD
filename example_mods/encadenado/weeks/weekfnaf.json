@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"encadenado",
+			"weekicon",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "fnaf",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Cade hace un Interrogatorio en FNAF",
+	"weekName": "EnCadenado",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "flumpty",
+	"startUnlocked": true
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				-151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cade-Down"
+		},
+		{
+			"offsets": [
+				55,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cade-Left"
+		},
+		{
+			"offsets": [
+				22,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cade-Right"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cade-Idle"
+		},
+		{
+			"offsets": [
+				77,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cade-Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cade",
+	"position": [
+		-150,
+		100
+	],
+	"healthicon": "cade",
+	"flip_x": false,
+	"healthbar_colors": [
+		84,
+		81,
+		75
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
