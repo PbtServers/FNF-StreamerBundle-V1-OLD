@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fazcade.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FazCade-Down0000" x="0" y="0" width="350" height="672" frameX="0" frameY="0" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="FazCade-Down0001" x="0" y="0" width="350" height="672" frameX="0" frameY="-8" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="FazCade-Down0002" x="0" y="0" width="350" height="672" frameX="0" frameY="-16" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="FazCade-Down0003" x="0" y="0" width="350" height="672" frameX="0" frameY="-23" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="FazCade-Down0004" x="0" y="0" width="350" height="672" frameX="0" frameY="-31" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="FazCade-Down0005" x="0" y="0" width="350" height="672" frameX="0" frameY="-38" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="FazCade-Down0006" x="0" y="0" width="350" height="672" frameX="0" frameY="-46" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="FazCade-Down0007" x="0" y="0" width="350" height="672" frameX="0" frameY="-54" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="FazCade-Down0008" x="350" y="0" width="328" height="659" frameX="-11" frameY="-67" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="FazCade-Down0009" x="350" y="0" width="328" height="659" frameX="-11" frameY="-67" frameWidth="350" frameHeight="726"/>
+	<SubTexture name="FazCade-Idle0000" x="678" y="0" width="1535" height="876"/>
+	<SubTexture name="FazCade-Left0000" x="2213" y="0" width="599" height="381" frameX="-41" frameY="-4" frameWidth="640" frameHeight="392"/>
+	<SubTexture name="FazCade-Left0001" x="2812" y="0" width="576" height="386" frameX="-42" frameY="-2" frameWidth="640" frameHeight="392"/>
+	<SubTexture name="FazCade-Left0002" x="3388" y="0" width="553" height="389" frameX="-42" frameY="-1" frameWidth="640" frameHeight="392"/>
+	<SubTexture name="FazCade-Left0003" x="0" y="876" width="529" height="391" frameX="-44" frameY="0" frameWidth="640" frameHeight="392"/>
+	<SubTexture name="FazCade-Left0004" x="529" y="876" width="506" height="392" frameX="-45" frameY="0" frameWidth="640" frameHeight="392"/>
+	<SubTexture name="FazCade-Left0005" x="1035" y="876" width="491" height="391" frameX="-42" frameY="-1" frameWidth="640" frameHeight="392"/>
+	<SubTexture name="FazCade-Left0006" x="1526" y="876" width="511" height="388" frameX="-22" frameY="-3" frameWidth="640" frameHeight="392"/>
+	<SubTexture name="FazCade-Left0007" x="2037" y="876" width="534" height="386" frameX="0" frameY="-4" frameWidth="640" frameHeight="392"/>
+	<SubTexture name="FazCade-Left0008" x="2571" y="876" width="487" height="381" frameX="-42" frameY="-4" frameWidth="640" frameHeight="392"/>
+	<SubTexture name="FazCade-Left0009" x="2571" y="876" width="487" height="381" frameX="-42" frameY="-4" frameWidth="640" frameHeight="392"/>
+	<SubTexture name="FazCade-Right0000" x="3058" y="876" width="580" height="381" frameX="0" frameY="0" frameWidth="657" frameHeight="381"/>
+	<SubTexture name="FazCade-Right0001" x="3058" y="876" width="580" height="381" frameX="-11" frameY="0" frameWidth="657" frameHeight="381"/>
+	<SubTexture name="FazCade-Right0002" x="3058" y="876" width="580" height="381" frameX="-22" frameY="0" frameWidth="657" frameHeight="381"/>
+	<SubTexture name="FazCade-Right0003" x="3058" y="876" width="580" height="381" frameX="-33" frameY="0" frameWidth="657" frameHeight="381"/>
+	<SubTexture name="FazCade-Right0004" x="3058" y="876" width="580" height="381" frameX="-44" frameY="0" frameWidth="657" frameHeight="381"/>
+	<SubTexture name="FazCade-Right0005" x="3058" y="876" width="580" height="381" frameX="-55" frameY="0" frameWidth="657" frameHeight="381"/>
+	<SubTexture name="FazCade-Right0006" x="3058" y="876" width="580" height="381" frameX="-66" frameY="0" frameWidth="657" frameHeight="381"/>
+	<SubTexture name="FazCade-Right0007" x="3058" y="876" width="580" height="381" frameX="-77" frameY="0" frameWidth="657" frameHeight="381"/>
+	<SubTexture name="FazCade-Right0008" x="0" y="1268" width="487" height="381" frameX="-134" frameY="0" frameWidth="657" frameHeight="381"/>
+	<SubTexture name="FazCade-Right0009" x="0" y="1268" width="487" height="381" frameX="-134" frameY="0" frameWidth="657" frameHeight="381"/>
+	<SubTexture name="FazCade-Up0000" x="487" y="1268" width="584" height="482" frameX="0" frameY="-44" frameWidth="585" frameHeight="526"/>
+	<SubTexture name="FazCade-Up0001" x="487" y="1268" width="584" height="482" frameX="0" frameY="-38" frameWidth="585" frameHeight="526"/>
+	<SubTexture name="FazCade-Up0002" x="487" y="1268" width="584" height="482" frameX="-1" frameY="-32" frameWidth="585" frameHeight="526"/>
+	<SubTexture name="FazCade-Up0003" x="487" y="1268" width="584" height="482" frameX="-1" frameY="-26" frameWidth="585" frameHeight="526"/>
+	<SubTexture name="FazCade-Up0004" x="487" y="1268" width="584" height="482" frameX="-1" frameY="-19" frameWidth="585" frameHeight="526"/>
+	<SubTexture name="FazCade-Up0005" x="487" y="1268" width="584" height="482" frameX="-1" frameY="-13" frameWidth="585" frameHeight="526"/>
+	<SubTexture name="FazCade-Up0006" x="487" y="1268" width="584" height="482" frameX="-2" frameY="-6" frameWidth="585" frameHeight="526"/>
+	<SubTexture name="FazCade-Up0007" x="487" y="1268" width="584" height="482" frameX="-2" frameY="0" frameWidth="585" frameHeight="526"/>
+	<SubTexture name="FazCade-Up0008" x="1071" y="1268" width="579" height="381" frameX="-4" frameY="-44" frameWidth="585" frameHeight="526"/>
+	<SubTexture name="FazCade-Up0009" x="1071" y="1268" width="579" height="381" frameX="-4" frameY="-44" frameWidth="585" frameHeight="526"/>
+</TextureAtlas>
