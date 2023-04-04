@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"muerte-voluntaria",
+			"weekicon",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "deadcc",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Dariush_YT Entra de Invitado a DeadCraft",
+	"weekName": "Muerte Voluntaria",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "fnaf",
+	"startUnlocked": true
+}
