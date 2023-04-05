@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LluviaMomento.png">
+<SubTexture name="LluviaMomento idle0000" x="0" y="0" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0001" x="400" y="0" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0002" x="0" y="300" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0003" x="400" y="300" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0004" x="800" y="0" width="398" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0005" x="0" y="600" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0006" x="400" y="600" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0007" x="1198" y="0" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0008" x="1198" y="300" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0009" x="1198" y="600" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0010" x="0" y="900" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0011" x="400" y="900" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0012" x="800" y="900" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0013" x="0" y="1200" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0014" x="400" y="1200" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0015" x="800" y="1200" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0016" x="1598" y="0" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0017" x="1598" y="300" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0018" x="1598" y="600" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0019" x="1598" y="900" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0020" x="1598" y="1200" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0021" x="0" y="1500" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0022" x="400" y="1500" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+<SubTexture name="LluviaMomento idle0023" x="800" y="1500" width="400" height="300" frameX="0" frameY="0" frameWidth="400" frameHeight="300" />
+</TextureAtlas>
