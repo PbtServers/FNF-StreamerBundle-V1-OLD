@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"alertacubica",
+			"weekicon",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "cubica",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "ORmc12 Queda con ElGordas en ORCraft",
+	"weekName": "Alerta Cubica",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "deadcc",
+	"startUnlocked": true
+}

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ArcoJuegosPNG.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ArcoJuegosPNG-Down0000" x="0" y="0" width="477" height="456" frameX="-47" frameY="0" frameWidth="571" frameHeight="500"/>
+	<SubTexture name="ArcoJuegosPNG-Down0001" x="0" y="0" width="477" height="456" frameX="-47" frameY="-6" frameWidth="571" frameHeight="500"/>
+	<SubTexture name="ArcoJuegosPNG-Down0002" x="0" y="0" width="477" height="456" frameX="-47" frameY="-12" frameWidth="571" frameHeight="500"/>
+	<SubTexture name="ArcoJuegosPNG-Down0003" x="0" y="0" width="477" height="456" frameX="-47" frameY="-18" frameWidth="571" frameHeight="500"/>
+	<SubTexture name="ArcoJuegosPNG-Down0004" x="0" y="0" width="477" height="456" frameX="-47" frameY="-25" frameWidth="571" frameHeight="500"/>
+	<SubTexture name="ArcoJuegosPNG-Down0005" x="0" y="0" width="477" height="456" frameX="-47" frameY="-31" frameWidth="571" frameHeight="500"/>
+	<SubTexture name="ArcoJuegosPNG-Down0006" x="0" y="0" width="477" height="456" frameX="-47" frameY="-37" frameWidth="571" frameHeight="500"/>
+	<SubTexture name="ArcoJuegosPNG-Down0007" x="0" y="0" width="477" height="456" frameX="-47" frameY="-43" frameWidth="571" frameHeight="500"/>
+	<SubTexture name="ArcoJuegosPNG-Down0008" x="477" y="0" width="571" height="394" frameX="0" frameY="-81" frameWidth="571" frameHeight="500"/>
+	<SubTexture name="ArcoJuegosPNG-Down0009" x="477" y="0" width="571" height="394" frameX="0" frameY="-81" frameWidth="571" frameHeight="500"/>
+	<SubTexture name="ArcoJuegosPNG-Idle0000" x="1048" y="0" width="461" height="472" frameX="-38" frameY="-15" frameWidth="536" frameHeight="507"/>
+	<SubTexture name="ArcoJuegosPNG-Idle0001" x="1048" y="0" width="461" height="472" frameX="-38" frameY="-15" frameWidth="536" frameHeight="507"/>
+	<SubTexture name="ArcoJuegosPNG-Idle0002" x="1048" y="0" width="461" height="472" frameX="-38" frameY="-15" frameWidth="536" frameHeight="507"/>
+	<SubTexture name="ArcoJuegosPNG-Idle0003" x="1048" y="0" width="461" height="472" frameX="-38" frameY="-15" frameWidth="536" frameHeight="507"/>
+	<SubTexture name="ArcoJuegosPNG-Idle0004" x="1048" y="0" width="461" height="472" frameX="-38" frameY="-16" frameWidth="536" frameHeight="507"/>
+	<SubTexture name="ArcoJuegosPNG-Idle0005" x="1048" y="0" width="461" height="472" frameX="-38" frameY="-16" frameWidth="536" frameHeight="507"/>
+	<SubTexture name="ArcoJuegosPNG-Idle0006" x="1048" y="0" width="461" height="472" frameX="-38" frameY="-16" frameWidth="536" frameHeight="507"/>
+	<SubTexture name="ArcoJuegosPNG-Idle0007" x="1048" y="0" width="461" height="472" frameX="-38" frameY="-16" frameWidth="536" frameHeight="507"/>
+	<SubTexture name="ArcoJuegosPNG-Idle0008" x="1509" y="0" width="536" height="507"/>
+	<SubTexture name="ArcoJuegosPNG-Idle0009" x="1509" y="0" width="536" height="507"/>
+	<SubTexture name="ArcoJuegosPNG-Left0000" x="0" y="507" width="465" height="447" frameX="-152" frameY="-15" frameWidth="617" frameHeight="478"/>
+	<SubTexture name="ArcoJuegosPNG-Left0001" x="0" y="507" width="465" height="447" frameX="-142" frameY="-15" frameWidth="617" frameHeight="478"/>
+	<SubTexture name="ArcoJuegosPNG-Left0002" x="0" y="507" width="465" height="447" frameX="-132" frameY="-15" frameWidth="617" frameHeight="478"/>
+	<SubTexture name="ArcoJuegosPNG-Left0003" x="0" y="507" width="465" height="447" frameX="-121" frameY="-15" frameWidth="617" frameHeight="478"/>
+	<SubTexture name="ArcoJuegosPNG-Left0004" x="0" y="507" width="465" height="447" frameX="-111" frameY="-15" frameWidth="617" frameHeight="478"/>
+	<SubTexture name="ArcoJuegosPNG-Left0005" x="0" y="507" width="465" height="447" frameX="-101" frameY="-15" frameWidth="617" frameHeight="478"/>
+	<SubTexture name="ArcoJuegosPNG-Left0006" x="0" y="507" width="465" height="447" frameX="-90" frameY="-15" frameWidth="617" frameHeight="478"/>
+	<SubTexture name="ArcoJuegosPNG-Left0007" x="0" y="507" width="465" height="447" frameX="-80" frameY="-15" frameWidth="617" frameHeight="478"/>
+	<SubTexture name="ArcoJuegosPNG-Left0008" x="465" y="507" width="604" height="478" frameX="0" frameY="0" frameWidth="617" frameHeight="478"/>
+	<SubTexture name="ArcoJuegosPNG-Left0009" x="465" y="507" width="604" height="478" frameX="0" frameY="0" frameWidth="617" frameHeight="478"/>
+	<SubTexture name="ArcoJuegosPNG-Right0000" x="1069" y="507" width="438" height="450" frameX="0" frameY="-18" frameWidth="584" frameHeight="487"/>
+	<SubTexture name="ArcoJuegosPNG-Right0001" x="1069" y="507" width="438" height="450" frameX="-10" frameY="-18" frameWidth="584" frameHeight="487"/>
+	<SubTexture name="ArcoJuegosPNG-Right0002" x="1069" y="507" width="438" height="450" frameX="-20" frameY="-18" frameWidth="584" frameHeight="487"/>
+	<SubTexture name="ArcoJuegosPNG-Right0003" x="1069" y="507" width="438" height="450" frameX="-30" frameY="-18" frameWidth="584" frameHeight="487"/>
+	<SubTexture name="ArcoJuegosPNG-Right0004" x="1069" y="507" width="438" height="450" frameX="-40" frameY="-18" frameWidth="584" frameHeight="487"/>
+	<SubTexture name="ArcoJuegosPNG-Right0005" x="1069" y="507" width="438" height="450" frameX="-50" frameY="-18" frameWidth="584" frameHeight="487"/>
+	<SubTexture name="ArcoJuegosPNG-Right0006" x="1069" y="507" width="438" height="450" frameX="-60" frameY="-18" frameWidth="584" frameHeight="487"/>
+	<SubTexture name="ArcoJuegosPNG-Right0007" x="1069" y="507" width="438" height="450" frameX="-70" frameY="-18" frameWidth="584" frameHeight="487"/>
+	<SubTexture name="ArcoJuegosPNG-Right0008" x="0" y="985" width="569" height="487" frameX="-15" frameY="0" frameWidth="584" frameHeight="487"/>
+	<SubTexture name="ArcoJuegosPNG-Right0009" x="0" y="985" width="569" height="487" frameX="-15" frameY="0" frameWidth="584" frameHeight="487"/>
+	<SubTexture name="ArcoJuegosPNG-Up0000" x="569" y="985" width="493" height="463" frameX="-63" frameY="-76" frameWidth="608" frameHeight="539"/>
+	<SubTexture name="ArcoJuegosPNG-Up0001" x="569" y="985" width="493" height="463" frameX="-63" frameY="-70" frameWidth="608" frameHeight="539"/>
+	<SubTexture name="ArcoJuegosPNG-Up0002" x="569" y="985" width="493" height="463" frameX="-62" frameY="-63" frameWidth="608" frameHeight="539"/>
+	<SubTexture name="ArcoJuegosPNG-Up0003" x="569" y="985" width="493" height="463" frameX="-62" frameY="-56" frameWidth="608" frameHeight="539"/>
+	<SubTexture name="ArcoJuegosPNG-Up0004" x="569" y="985" width="493" height="463" frameX="-61" frameY="-49" frameWidth="608" frameHeight="539"/>
+	<SubTexture name="ArcoJuegosPNG-Up0005" x="569" y="985" width="493" height="463" frameX="-60" frameY="-42" frameWidth="608" frameHeight="539"/>
+	<SubTexture name="ArcoJuegosPNG-Up0006" x="569" y="985" width="493" height="463" frameX="-60" frameY="-35" frameWidth="608" frameHeight="539"/>
+	<SubTexture name="ArcoJuegosPNG-Up0007" x="569" y="985" width="493" height="463" frameX="-59" frameY="-28" frameWidth="608" frameHeight="539"/>
+	<SubTexture name="ArcoJuegosPNG-Up0008" x="1062" y="985" width="608" height="503" frameX="0" frameY="0" frameWidth="608" frameHeight="539"/>
+	<SubTexture name="ArcoJuegosPNG-Up0009" x="1062" y="985" width="608" height="503" frameX="0" frameY="0" frameWidth="608" frameHeight="539"/>
+</TextureAtlas>

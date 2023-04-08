@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ORmc12PNG.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ORmc12PNG-Down0000" x="0" y="0" width="294" height="609" frameX="0" frameY="0" frameWidth="294" frameHeight="714"/>
+	<SubTexture name="ORmc12PNG-Down0001" x="0" y="0" width="294" height="609" frameX="0" frameY="-8" frameWidth="294" frameHeight="714"/>
+	<SubTexture name="ORmc12PNG-Down0002" x="0" y="0" width="294" height="609" frameX="0" frameY="-17" frameWidth="294" frameHeight="714"/>
+	<SubTexture name="ORmc12PNG-Down0003" x="0" y="0" width="294" height="609" frameX="0" frameY="-25" frameWidth="294" frameHeight="714"/>
+	<SubTexture name="ORmc12PNG-Down0004" x="0" y="0" width="294" height="609" frameX="0" frameY="-34" frameWidth="294" frameHeight="714"/>
+	<SubTexture name="ORmc12PNG-Down0005" x="0" y="0" width="294" height="609" frameX="0" frameY="-43" frameWidth="294" frameHeight="714"/>
+	<SubTexture name="ORmc12PNG-Down0006" x="0" y="0" width="294" height="609" frameX="0" frameY="-51" frameWidth="294" frameHeight="714"/>
+	<SubTexture name="ORmc12PNG-Down0007" x="0" y="0" width="294" height="609" frameX="0" frameY="-60" frameWidth="294" frameHeight="714"/>
+	<SubTexture name="ORmc12PNG-Down0008" x="294" y="0" width="294" height="682" frameX="0" frameY="-32" frameWidth="294" frameHeight="714"/>
+	<SubTexture name="ORmc12PNG-Down0009" x="294" y="0" width="294" height="682" frameX="0" frameY="-32" frameWidth="294" frameHeight="714"/>
+	<SubTexture name="ORmc12PNG-Idle0000" x="588" y="0" width="397" height="646" frameX="0" frameY="-6" frameWidth="397" frameHeight="688"/>
+	<SubTexture name="ORmc12PNG-Idle0001" x="588" y="0" width="397" height="646" frameX="0" frameY="-8" frameWidth="397" frameHeight="688"/>
+	<SubTexture name="ORmc12PNG-Idle0002" x="588" y="0" width="397" height="646" frameX="0" frameY="-10" frameWidth="397" frameHeight="688"/>
+	<SubTexture name="ORmc12PNG-Idle0003" x="588" y="0" width="397" height="646" frameX="0" frameY="-12" frameWidth="397" frameHeight="688"/>
+	<SubTexture name="ORmc12PNG-Idle0004" x="588" y="0" width="397" height="646" frameX="0" frameY="-14" frameWidth="397" frameHeight="688"/>
+	<SubTexture name="ORmc12PNG-Idle0005" x="588" y="0" width="397" height="646" frameX="0" frameY="-15" frameWidth="397" frameHeight="688"/>
+	<SubTexture name="ORmc12PNG-Idle0006" x="588" y="0" width="397" height="646" frameX="0" frameY="-17" frameWidth="397" frameHeight="688"/>
+	<SubTexture name="ORmc12PNG-Idle0007" x="588" y="0" width="397" height="646" frameX="0" frameY="-19" frameWidth="397" frameHeight="688"/>
+	<SubTexture name="ORmc12PNG-Idle0008" x="985" y="0" width="397" height="688"/>
+	<SubTexture name="ORmc12PNG-Idle0009" x="985" y="0" width="397" height="688"/>
+	<SubTexture name="ORmc12PNG-Left0000" x="1382" y="0" width="300" height="584" frameX="-90" frameY="-14" frameWidth="390" frameHeight="612"/>
+	<SubTexture name="ORmc12PNG-Left0001" x="1682" y="0" width="310" height="588" frameX="-79" frameY="-12" frameWidth="390" frameHeight="612"/>
+	<SubTexture name="ORmc12PNG-Left0002" x="1992" y="0" width="320" height="591" frameX="-68" frameY="-11" frameWidth="390" frameHeight="612"/>
+	<SubTexture name="ORmc12PNG-Left0003" x="2312" y="0" width="330" height="595" frameX="-56" frameY="-9" frameWidth="390" frameHeight="612"/>
+	<SubTexture name="ORmc12PNG-Left0004" x="2642" y="0" width="340" height="598" frameX="-45" frameY="-7" frameWidth="390" frameHeight="612"/>
+	<SubTexture name="ORmc12PNG-Left0005" x="2982" y="0" width="349" height="602" frameX="-34" frameY="-5" frameWidth="390" frameHeight="612"/>
+	<SubTexture name="ORmc12PNG-Left0006" x="3331" y="0" width="359" height="605" frameX="-22" frameY="-4" frameWidth="390" frameHeight="612"/>
+	<SubTexture name="ORmc12PNG-Left0007" x="3690" y="0" width="369" height="608" frameX="-11" frameY="-2" frameWidth="390" frameHeight="612"/>
+	<SubTexture name="ORmc12PNG-Left0008" x="0" y="688" width="378" height="612" frameX="0" frameY="0" frameWidth="390" frameHeight="612"/>
+	<SubTexture name="ORmc12PNG-Left0009" x="0" y="688" width="378" height="612" frameX="0" frameY="0" frameWidth="390" frameHeight="612"/>
+	<SubTexture name="ORmc12PNG-Right0000" x="378" y="688" width="351" height="556" frameX="0" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Right0001" x="378" y="688" width="351" height="556" frameX="-4" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Right0002" x="378" y="688" width="351" height="556" frameX="-9" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Right0003" x="378" y="688" width="351" height="556" frameX="-14" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Right0004" x="378" y="688" width="351" height="556" frameX="-19" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Right0005" x="378" y="688" width="351" height="556" frameX="-24" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Right0006" x="378" y="688" width="351" height="556" frameX="-29" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Right0007" x="378" y="688" width="351" height="556" frameX="-34" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Right0008" x="378" y="688" width="351" height="556" frameX="-39" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Right0009" x="378" y="688" width="351" height="556" frameX="-44" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Right0010" x="378" y="688" width="351" height="556" frameX="-49" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Right0011" x="378" y="688" width="351" height="556" frameX="-54" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Right0012" x="378" y="688" width="351" height="556" frameX="-59" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Right0013" x="729" y="688" width="439" height="556" frameX="-20" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Right0014" x="729" y="688" width="439" height="556" frameX="-20" frameY="0" frameWidth="459" frameHeight="556"/>
+	<SubTexture name="ORmc12PNG-Up0000" x="1168" y="688" width="397" height="646" frameX="0" frameY="-131" frameWidth="398" frameHeight="777"/>
+	<SubTexture name="ORmc12PNG-Up0001" x="1565" y="688" width="398" height="656" frameX="0" frameY="-115" frameWidth="398" frameHeight="777"/>
+	<SubTexture name="ORmc12PNG-Up0002" x="1963" y="688" width="397" height="665" frameX="0" frameY="-99" frameWidth="398" frameHeight="777"/>
+	<SubTexture name="ORmc12PNG-Up0003" x="2360" y="688" width="397" height="675" frameX="0" frameY="-82" frameWidth="398" frameHeight="777"/>
+	<SubTexture name="ORmc12PNG-Up0004" x="2757" y="688" width="397" height="684" frameX="0" frameY="-66" frameWidth="398" frameHeight="777"/>
+	<SubTexture name="ORmc12PNG-Up0005" x="3154" y="688" width="397" height="694" frameX="0" frameY="-49" frameWidth="398" frameHeight="777"/>
+	<SubTexture name="ORmc12PNG-Up0006" x="3551" y="688" width="397" height="703" frameX="0" frameY="-33" frameWidth="398" frameHeight="777"/>
+	<SubTexture name="ORmc12PNG-Up0007" x="0" y="1391" width="397" height="713" frameX="0" frameY="-16" frameWidth="398" frameHeight="777"/>
+	<SubTexture name="ORmc12PNG-Up0008" x="397" y="1391" width="397" height="723" frameX="0" frameY="0" frameWidth="398" frameHeight="777"/>
+	<SubTexture name="ORmc12PNG-Up0009" x="397" y="1391" width="397" height="723" frameX="0" frameY="0" frameWidth="398" frameHeight="777"/>
+</TextureAtlas>
