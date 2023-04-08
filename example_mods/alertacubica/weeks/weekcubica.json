@@ -20,13 +20,13 @@
 		""
 	],
 	"storyName": "ORmc12 Queda con ElGordas en ORCraft",
-	"weekName": "Alerta Cubica",
+	"weekName": "AlertaCubica",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
 	"hideStoryMode": false,
-	"weekBefore": "deadcc",
+	"weekBefore": "Momentazo",
 	"startUnlocked": true
 }

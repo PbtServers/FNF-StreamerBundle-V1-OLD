@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "ORmc12PNG-Idle",
+			"name": "xJizzle-Idle-Run",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "ORmc12PNG-Left",
+			"name": "xJizzle-Left-Run",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "ORmc12PNG-Down",
+			"name": "xJizzle-Down-Run",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "ORmc12PNG-Up",
+			"name": "xJizzle-Up-Run",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "ORmc12PNG-Right",
+			"name": "xJizzle-Right-Run",
 			"indices": []
 		},
 		{
@@ -101,22 +101,22 @@
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/ORmc12PNG",
+	"image": "characters/null",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "ORmc12PNG",
-	"flip_x": true,
+	"healthicon": "xjizzlerun",
+	"flip_x": false,
 	"healthbar_colors": [
 		0,
 		0,
 		255
 	],
 	"camera_position": [
-		-300,
+		300,
 		10
 	],
 	"sing_duration": 4,
-	"scale": 2.5
+	"scale": 0.8
 }
