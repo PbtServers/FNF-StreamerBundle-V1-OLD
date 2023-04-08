@@ -2,7 +2,7 @@ function onUpdate()
 
 	if curBeat == 2064 then
 	
-		makeLuaSprite('alerta', 'alerta', -600, -300);
+		makeLuaSprite('alerta', 'alerta', 1000, 200);
 		setScrollFactor('alerta', 0.9, 0.9);
 
 		addLuaSprite('alerta', true);
