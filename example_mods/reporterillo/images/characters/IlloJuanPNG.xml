@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="IlloJuanPNG.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IlloJuanPNG-Down0000" x="0" y="0" width="452" height="477" frameX="0" frameY="0" frameWidth="452" frameHeight="551"/>
+	<SubTexture name="IlloJuanPNG-Down0001" x="0" y="0" width="452" height="477" frameX="0" frameY="-5" frameWidth="452" frameHeight="551"/>
+	<SubTexture name="IlloJuanPNG-Down0002" x="0" y="0" width="452" height="477" frameX="0" frameY="-10" frameWidth="452" frameHeight="551"/>
+	<SubTexture name="IlloJuanPNG-Down0003" x="0" y="0" width="452" height="477" frameX="0" frameY="-16" frameWidth="452" frameHeight="551"/>
+	<SubTexture name="IlloJuanPNG-Down0004" x="0" y="0" width="452" height="477" frameX="0" frameY="-21" frameWidth="452" frameHeight="551"/>
+	<SubTexture name="IlloJuanPNG-Down0005" x="0" y="0" width="452" height="477" frameX="0" frameY="-27" frameWidth="452" frameHeight="551"/>
+	<SubTexture name="IlloJuanPNG-Down0006" x="0" y="0" width="452" height="477" frameX="0" frameY="-32" frameWidth="452" frameHeight="551"/>
+	<SubTexture name="IlloJuanPNG-Down0007" x="0" y="0" width="452" height="477" frameX="0" frameY="-38" frameWidth="452" frameHeight="551"/>
+	<SubTexture name="IlloJuanPNG-Down0008" x="452" y="0" width="452" height="537" frameX="0" frameY="-14" frameWidth="452" frameHeight="551"/>
+	<SubTexture name="IlloJuanPNG-Down0009" x="452" y="0" width="452" height="537" frameX="0" frameY="-14" frameWidth="452" frameHeight="551"/>
+	<SubTexture name="IlloJuanPNG-Idle0000" x="904" y="0" width="443" height="438" frameX="0" frameY="0" frameWidth="443" frameHeight="479"/>
+	<SubTexture name="IlloJuanPNG-Idle0001" x="904" y="0" width="443" height="438" frameX="0" frameY="-5" frameWidth="443" frameHeight="479"/>
+	<SubTexture name="IlloJuanPNG-Idle0002" x="904" y="0" width="443" height="438" frameX="0" frameY="-11" frameWidth="443" frameHeight="479"/>
+	<SubTexture name="IlloJuanPNG-Idle0003" x="904" y="0" width="443" height="438" frameX="0" frameY="-17" frameWidth="443" frameHeight="479"/>
+	<SubTexture name="IlloJuanPNG-Idle0004" x="904" y="0" width="443" height="438" frameX="0" frameY="-23" frameWidth="443" frameHeight="479"/>
+	<SubTexture name="IlloJuanPNG-Idle0005" x="904" y="0" width="443" height="438" frameX="0" frameY="-29" frameWidth="443" frameHeight="479"/>
+	<SubTexture name="IlloJuanPNG-Idle0006" x="904" y="0" width="443" height="438" frameX="0" frameY="-35" frameWidth="443" frameHeight="479"/>
+	<SubTexture name="IlloJuanPNG-Idle0007" x="904" y="0" width="443" height="438" frameX="0" frameY="-41" frameWidth="443" frameHeight="479"/>
+	<SubTexture name="IlloJuanPNG-Idle0008" x="1347" y="0" width="443" height="345" frameX="0" frameY="-93" frameWidth="443" frameHeight="479"/>
+	<SubTexture name="IlloJuanPNG-Idle0009" x="1347" y="0" width="443" height="345" frameX="0" frameY="-93" frameWidth="443" frameHeight="479"/>
+	<SubTexture name="IlloJuanPNG-Left0000" x="0" y="537" width="371" height="397" frameX="-146" frameY="0" frameWidth="517" frameHeight="397"/>
+	<SubTexture name="IlloJuanPNG-Left0001" x="0" y="537" width="371" height="397" frameX="-133" frameY="0" frameWidth="517" frameHeight="397"/>
+	<SubTexture name="IlloJuanPNG-Left0002" x="0" y="537" width="371" height="397" frameX="-120" frameY="0" frameWidth="517" frameHeight="397"/>
+	<SubTexture name="IlloJuanPNG-Left0003" x="0" y="537" width="371" height="397" frameX="-106" frameY="0" frameWidth="517" frameHeight="397"/>
+	<SubTexture name="IlloJuanPNG-Left0004" x="0" y="537" width="371" height="397" frameX="-93" frameY="0" frameWidth="517" frameHeight="397"/>
+	<SubTexture name="IlloJuanPNG-Left0005" x="0" y="537" width="371" height="397" frameX="-79" frameY="0" frameWidth="517" frameHeight="397"/>
+	<SubTexture name="IlloJuanPNG-Left0006" x="0" y="537" width="371" height="397" frameX="-66" frameY="0" frameWidth="517" frameHeight="397"/>
+	<SubTexture name="IlloJuanPNG-Left0007" x="0" y="537" width="371" height="397" frameX="-52" frameY="0" frameWidth="517" frameHeight="397"/>
+	<SubTexture name="IlloJuanPNG-Left0008" x="371" y="537" width="447" height="397" frameX="0" frameY="0" frameWidth="517" frameHeight="397"/>
+	<SubTexture name="IlloJuanPNG-Left0009" x="371" y="537" width="447" height="397" frameX="0" frameY="0" frameWidth="517" frameHeight="397"/>
+	<SubTexture name="IlloJuanPNG-Right0000" x="818" y="537" width="568" height="488" frameX="0" frameY="0" frameWidth="669" frameHeight="488"/>
+	<SubTexture name="IlloJuanPNG-Right0001" x="818" y="537" width="568" height="488" frameX="-9" frameY="0" frameWidth="669" frameHeight="488"/>
+	<SubTexture name="IlloJuanPNG-Right0002" x="818" y="537" width="568" height="488" frameX="-19" frameY="0" frameWidth="669" frameHeight="488"/>
+	<SubTexture name="IlloJuanPNG-Right0003" x="818" y="537" width="568" height="488" frameX="-28" frameY="0" frameWidth="669" frameHeight="488"/>
+	<SubTexture name="IlloJuanPNG-Right0004" x="818" y="537" width="568" height="488" frameX="-38" frameY="0" frameWidth="669" frameHeight="488"/>
+	<SubTexture name="IlloJuanPNG-Right0005" x="818" y="537" width="568" height="488" frameX="-47" frameY="0" frameWidth="669" frameHeight="488"/>
+	<SubTexture name="IlloJuanPNG-Right0006" x="818" y="537" width="568" height="488" frameX="-57" frameY="0" frameWidth="669" frameHeight="488"/>
+	<SubTexture name="IlloJuanPNG-Right0007" x="818" y="537" width="568" height="488" frameX="-67" frameY="0" frameWidth="669" frameHeight="488"/>
+	<SubTexture name="IlloJuanPNG-Right0008" x="1386" y="537" width="618" height="488" frameX="-51" frameY="0" frameWidth="669" frameHeight="488"/>
+	<SubTexture name="IlloJuanPNG-Right0009" x="1386" y="537" width="618" height="488" frameX="-51" frameY="0" frameWidth="669" frameHeight="488"/>
+	<SubTexture name="IlloJuanPNG-Up0000" x="0" y="1025" width="443" height="400" frameX="-31" frameY="-71" frameWidth="505" frameHeight="471"/>
+	<SubTexture name="IlloJuanPNG-Up0001" x="0" y="1025" width="443" height="400" frameX="-31" frameY="-67" frameWidth="505" frameHeight="471"/>
+	<SubTexture name="IlloJuanPNG-Up0002" x="0" y="1025" width="443" height="400" frameX="-31" frameY="-62" frameWidth="505" frameHeight="471"/>
+	<SubTexture name="IlloJuanPNG-Up0003" x="0" y="1025" width="443" height="400" frameX="-31" frameY="-57" frameWidth="505" frameHeight="471"/>
+	<SubTexture name="IlloJuanPNG-Up0004" x="0" y="1025" width="443" height="400" frameX="-31" frameY="-52" frameWidth="505" frameHeight="471"/>
+	<SubTexture name="IlloJuanPNG-Up0005" x="0" y="1025" width="443" height="400" frameX="-31" frameY="-48" frameWidth="505" frameHeight="471"/>
+	<SubTexture name="IlloJuanPNG-Up0006" x="0" y="1025" width="443" height="400" frameX="-31" frameY="-43" frameWidth="505" frameHeight="471"/>
+	<SubTexture name="IlloJuanPNG-Up0007" x="0" y="1025" width="443" height="400" frameX="-31" frameY="-38" frameWidth="505" frameHeight="471"/>
+	<SubTexture name="IlloJuanPNG-Up0008" x="443" y="1025" width="505" height="466" frameX="0" frameY="0" frameWidth="505" frameHeight="471"/>
+	<SubTexture name="IlloJuanPNG-Up0009" x="443" y="1025" width="505" height="466" frameX="0" frameY="0" frameWidth="505" frameHeight="471"/>
+</TextureAtlas>

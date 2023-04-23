@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="YannisPNG.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="YannisPNG-Down0000" x="0" y="0" width="421" height="478" frameX="0" frameY="0" frameWidth="421" frameHeight="537"/>
+	<SubTexture name="YannisPNG-Down0001" x="0" y="0" width="421" height="478" frameX="0" frameY="-8" frameWidth="421" frameHeight="537"/>
+	<SubTexture name="YannisPNG-Down0002" x="0" y="0" width="421" height="478" frameX="0" frameY="-16" frameWidth="421" frameHeight="537"/>
+	<SubTexture name="YannisPNG-Down0003" x="0" y="0" width="421" height="478" frameX="0" frameY="-25" frameWidth="421" frameHeight="537"/>
+	<SubTexture name="YannisPNG-Down0004" x="0" y="0" width="421" height="478" frameX="0" frameY="-33" frameWidth="421" frameHeight="537"/>
+	<SubTexture name="YannisPNG-Down0005" x="0" y="0" width="421" height="478" frameX="0" frameY="-41" frameWidth="421" frameHeight="537"/>
+	<SubTexture name="YannisPNG-Down0006" x="0" y="0" width="421" height="478" frameX="0" frameY="-50" frameWidth="421" frameHeight="537"/>
+	<SubTexture name="YannisPNG-Down0007" x="0" y="0" width="421" height="478" frameX="0" frameY="-58" frameWidth="421" frameHeight="537"/>
+	<SubTexture name="YannisPNG-Down0008" x="421" y="0" width="368" height="338" frameX="-26" frameY="-137" frameWidth="421" frameHeight="537"/>
+	<SubTexture name="YannisPNG-Down0009" x="421" y="0" width="368" height="338" frameX="-26" frameY="-137" frameWidth="421" frameHeight="537"/>
+	<SubTexture name="YannisPNG-Idle0000" x="789" y="0" width="511" height="460" frameX="-23" frameY="-34" frameWidth="558" frameHeight="500"/>
+	<SubTexture name="YannisPNG-Idle0001" x="789" y="0" width="511" height="460" frameX="-23" frameY="-33" frameWidth="558" frameHeight="500"/>
+	<SubTexture name="YannisPNG-Idle0002" x="789" y="0" width="511" height="460" frameX="-23" frameY="-31" frameWidth="558" frameHeight="500"/>
+	<SubTexture name="YannisPNG-Idle0003" x="789" y="0" width="511" height="460" frameX="-23" frameY="-29" frameWidth="558" frameHeight="500"/>
+	<SubTexture name="YannisPNG-Idle0004" x="789" y="0" width="511" height="460" frameX="-23" frameY="-27" frameWidth="558" frameHeight="500"/>
+	<SubTexture name="YannisPNG-Idle0005" x="789" y="0" width="511" height="460" frameX="-23" frameY="-26" frameWidth="558" frameHeight="500"/>
+	<SubTexture name="YannisPNG-Idle0006" x="789" y="0" width="511" height="460" frameX="-23" frameY="-24" frameWidth="558" frameHeight="500"/>
+	<SubTexture name="YannisPNG-Idle0007" x="789" y="0" width="511" height="460" frameX="-23" frameY="-22" frameWidth="558" frameHeight="500"/>
+	<SubTexture name="YannisPNG-Idle0008" x="1300" y="0" width="558" height="500"/>
+	<SubTexture name="YannisPNG-Idle0009" x="1300" y="0" width="558" height="500"/>
+	<SubTexture name="YannisPNG-Left0000" x="0" y="500" width="449" height="528" frameX="-107" frameY="0" frameWidth="556" frameHeight="528"/>
+	<SubTexture name="YannisPNG-Left0001" x="0" y="500" width="449" height="528" frameX="-95" frameY="0" frameWidth="556" frameHeight="528"/>
+	<SubTexture name="YannisPNG-Left0002" x="0" y="500" width="449" height="528" frameX="-83" frameY="0" frameWidth="556" frameHeight="528"/>
+	<SubTexture name="YannisPNG-Left0003" x="0" y="500" width="449" height="528" frameX="-71" frameY="0" frameWidth="556" frameHeight="528"/>
+	<SubTexture name="YannisPNG-Left0004" x="0" y="500" width="449" height="528" frameX="-58" frameY="0" frameWidth="556" frameHeight="528"/>
+	<SubTexture name="YannisPNG-Left0005" x="0" y="500" width="449" height="528" frameX="-46" frameY="0" frameWidth="556" frameHeight="528"/>
+	<SubTexture name="YannisPNG-Left0006" x="0" y="500" width="449" height="528" frameX="-34" frameY="0" frameWidth="556" frameHeight="528"/>
+	<SubTexture name="YannisPNG-Left0007" x="0" y="500" width="449" height="528" frameX="-21" frameY="0" frameWidth="556" frameHeight="528"/>
+	<SubTexture name="YannisPNG-Left0008" x="449" y="500" width="467" height="528" frameX="0" frameY="0" frameWidth="556" frameHeight="528"/>
+	<SubTexture name="YannisPNG-Left0009" x="449" y="500" width="467" height="528" frameX="0" frameY="0" frameWidth="556" frameHeight="528"/>
+	<SubTexture name="YannisPNG-Right0000" x="916" y="500" width="518" height="444" frameX="0" frameY="0" frameWidth="661" frameHeight="460"/>
+	<SubTexture name="YannisPNG-Right0001" x="916" y="500" width="518" height="444" frameX="-13" frameY="-1" frameWidth="661" frameHeight="460"/>
+	<SubTexture name="YannisPNG-Right0002" x="916" y="500" width="518" height="444" frameX="-26" frameY="-3" frameWidth="661" frameHeight="460"/>
+	<SubTexture name="YannisPNG-Right0003" x="916" y="500" width="518" height="444" frameX="-40" frameY="-5" frameWidth="661" frameHeight="460"/>
+	<SubTexture name="YannisPNG-Right0004" x="916" y="500" width="518" height="444" frameX="-53" frameY="-7" frameWidth="661" frameHeight="460"/>
+	<SubTexture name="YannisPNG-Right0005" x="916" y="500" width="518" height="444" frameX="-67" frameY="-9" frameWidth="661" frameHeight="460"/>
+	<SubTexture name="YannisPNG-Right0006" x="916" y="500" width="518" height="444" frameX="-80" frameY="-11" frameWidth="661" frameHeight="460"/>
+	<SubTexture name="YannisPNG-Right0007" x="916" y="500" width="518" height="444" frameX="-94" frameY="-13" frameWidth="661" frameHeight="460"/>
+	<SubTexture name="YannisPNG-Right0008" x="1434" y="500" width="590" height="445" frameX="-71" frameY="-15" frameWidth="661" frameHeight="460"/>
+	<SubTexture name="YannisPNG-Right0009" x="1434" y="500" width="590" height="445" frameX="-71" frameY="-15" frameWidth="661" frameHeight="460"/>
+	<SubTexture name="YannisPNG-Up0000" x="0" y="1028" width="486" height="491" frameX="-58" frameY="-99" frameWidth="602" frameHeight="593"/>
+	<SubTexture name="YannisPNG-Up0001" x="0" y="1028" width="486" height="491" frameX="-58" frameY="-93" frameWidth="602" frameHeight="593"/>
+	<SubTexture name="YannisPNG-Up0002" x="0" y="1028" width="486" height="491" frameX="-58" frameY="-87" frameWidth="602" frameHeight="593"/>
+	<SubTexture name="YannisPNG-Up0003" x="0" y="1028" width="486" height="491" frameX="-58" frameY="-81" frameWidth="602" frameHeight="593"/>
+	<SubTexture name="YannisPNG-Up0004" x="0" y="1028" width="486" height="491" frameX="-58" frameY="-75" frameWidth="602" frameHeight="593"/>
+	<SubTexture name="YannisPNG-Up0005" x="0" y="1028" width="486" height="491" frameX="-58" frameY="-69" frameWidth="602" frameHeight="593"/>
+	<SubTexture name="YannisPNG-Up0006" x="0" y="1028" width="486" height="491" frameX="-58" frameY="-63" frameWidth="602" frameHeight="593"/>
+	<SubTexture name="YannisPNG-Up0007" x="0" y="1028" width="486" height="491" frameX="-58" frameY="-57" frameWidth="602" frameHeight="593"/>
+	<SubTexture name="YannisPNG-Up0008" x="486" y="1028" width="602" height="593"/>
+	<SubTexture name="YannisPNG-Up0009" x="486" y="1028" width="602" height="593"/>
+</TextureAtlas>
