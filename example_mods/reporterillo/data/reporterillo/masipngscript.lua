@@ -46,18 +46,18 @@ yScale = 2.5
 
 -- pretty self-explanitory
 name_of_character_xml = 'MasiPNG'
-name_of_character = 'MasiPNG'
+name_of_character = 'MasiPNG2'
 charNote = 'masipng'
 --charNote2 = ''    -- to distinguish between multiple characters singing at the same time (uncomment to use)
 --altCharNote = ''          -- this is used for alt animations (uncomment to use)
 --altCharNote2 = ''         -- this is used for alt animations and singing at the same time (uncomment to use)
 
 
-playableCharacter = false      -- change to 'true' if you want to the character on teamDad
+playableCharacter = true      -- change to 'true' if you want to the character on teamDad
 flipX = true       -- most likely change to 'true' if using a BF sided character
 useIdle = true      -- Use idle code or Dance code (EG: Skid&Pump, GF)
-invisible = false   -- invisible character (if you want to use the change character event, you need to make the second character invisible first)
-teamplay = true     -- Should character simply sing all notes on their side
+invisible = true   -- invisible character (if you want to use the change character event, you need to make the second character invisible first)
+teamplay = false     -- Should character simply sing all notes on their side
 layer = 2           --[[ Usable values:
 0 : Behind stage
 1 : Behind all
