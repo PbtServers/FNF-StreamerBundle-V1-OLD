@@ -9,16 +9,16 @@
 	CoderName2 = 'Pbt'
 	CoderName3 = ''
 
-	ArtistName1 = 'FNF VS Vloo Guy (Vloo Guy)'
-	ArtistName2 = 'Pbt (Sprites Custom)'
+	ArtistName1 = ''
+	ArtistName2 = 'Pbt'
 	ArtistName3 = ''
 
-	MusicianName1 = 'SmilyBruh (Original "LORE D SIDES")'
-	MusicianName2 = 'Pbt (Cover)'
+	MusicianName1 = ''
+	MusicianName2 = 'Pbt (Original)'
 	MusicianName3 = ''
 
-	CharterName1 = 'FNF VS Vloo Guy (Original)'
-	CharterName2 = 'Pbt (Custom)'
+	CharterName1 = ''
+	CharterName2 = 'Pbt'
 	CharterName3 = ''
 
 

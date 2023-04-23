@@ -1,7 +1,7 @@
 {
 	"songs": [
 		[
-			"encadenado",
+			"reporterillo",
 			"weekicon",
 			[
 				249,
@@ -12,21 +12,21 @@
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "fnaf",
+	"weekBackground": "illo",
 	"difficulties": "Hard",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "Cade hace un Interrogatorio en FNAF",
-	"weekName": "EnCadenado",
+	"storyName": "IlloJuan se Enfrenta al Reddit",
+	"weekName": "ReporterILLO",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
 	"hideStoryMode": false,
-	"weekBefore": "deadcc",
+	"weekBefore": "cubica",
 	"startUnlocked": true
 }
