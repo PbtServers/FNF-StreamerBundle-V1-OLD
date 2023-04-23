@@ -37,8 +37,8 @@ up_alt_xml_name = 'up alt0'
 right_alt_xml_name = 'right alt0'
 
 -- horizontal and vertical positions
-x_position = 1400
-y_position = 400
+x_position = 1150
+y_position = 800
 
 -- scales your character (set to 1 by default)
 xScale = 2.5
