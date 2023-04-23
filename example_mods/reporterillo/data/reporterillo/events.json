@@ -165,13 +165,11 @@
 				23057.1428571429,
 				[
 					[
-						"Change Character",
+						"ChangeSecondaryCharacter",
 						"2",
 						"MasiPNG2"
 					]
 				],
-				null,
-				"masipng"
 			],
 			[
 				23571.4285714286,
@@ -367,7 +365,7 @@
 				63085.7142857143,
 				[
 					[
-						"Change Character",
+						"ChangeSecondaryCharacter",
 						"2",
 						"YannisPNG2"
 					]
@@ -387,7 +385,7 @@
 				86228.5714285714,
 				[
 					[
-						"Change Character",
+						"ChangeSecondaryCharacter",
 						"2",
 						"MasiPNG2"
 					]
@@ -407,7 +405,7 @@
 				101485.714285714,
 				[
 					[
-						"Change Character",
+						"ChangeSecondaryCharacter",
 						"2",
 						"YannisPNG2"
 					]
@@ -427,7 +425,7 @@
 				109714.285714286,
 				[
 					[
-						"Change Character",
+						"ChangeSecondaryCharacter",
 						"2",
 						"MasiPNG2"
 					]
@@ -447,7 +445,7 @@
 				112457.142857143,
 				[
 					[
-						"Change Character",
+						"ChangeSecondaryCharacter",
 						"2",
 						"null"
 					]
